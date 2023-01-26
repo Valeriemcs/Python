@@ -1,3 +1,5 @@
+#Factorial del número dado: Escriba un programa en el que dado un número
+#por el usuario, imprima el factorial (!) de dicho número.
 
 print ("Ingrese número:")
 
