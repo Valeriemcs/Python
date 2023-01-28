@@ -4,7 +4,9 @@
 
 lista = []
 
+
 for i in range (5):
     numeros=int(input("Ingrese 5 números: "))
     lista.append(numeros **3)
 print (lista)
+   
